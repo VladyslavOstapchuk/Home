@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="206ba1de-d369-4eb0-abe1-2a8c8a17bb71" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wiadomosci</find>
+      <find>a</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>log</replace>
+      <replace>r</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="287" />
+    <option name="y" value="80" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1T4OdR7TdVO3awWBnnxAwbEllhz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553508968890" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DianasLabs" />
+      <recent name="$PROJECT_DIR$/src/Basics/Bits" />
+      <recent name="$PROJECT_DIR$/src/GUI" />
+      <recent name="$PROJECT_DIR$/src/GUI/Swing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DianasLabs/Zestawy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SimpleLambda">
+    <configuration name="Collections (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA.Practice.Collections.Collections" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA.Practice.Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA.Practice.NestedAndAnonClasses.Main" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA.Practice.NestedAndAnonClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA.Practice.Object.Main" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA.Practice.Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA.Practice.Files.Main" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA.Practice.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA.Practice.AbstractClasses.Main" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA.Practice.AbstractClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Collections.Threads.Synchronize.Main" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.Collections.Threads.Synchronize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Collections.Threads.LocalSynchronize.Main" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.Collections.Threads.LocalSynchronize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA.Practice.Lambda.SimpleLambda" />
+      <module name="LearnAtHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVA.Practice.Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleLambda" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Collections (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="206ba1de-d369-4eb0-abe1-2a8c8a17bb71" name="Default Changelist" comment="" />
+      <created>1546814741627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546814741627</updated>
+      <workItem from="1546814749250" duration="103000" />
+      <workItem from="1546962821554" duration="599000" />
+      <workItem from="1547051365798" duration="11775000" />
+      <workItem from="1547307818996" duration="2543000" />
+      <workItem from="1547323052728" duration="7550000" />
+      <workItem from="1547401110033" duration="2525000" />
+      <workItem from="1547538343669" duration="1432000" />
+      <workItem from="1547559925484" duration="1335000" />
+      <workItem from="1547809500531" duration="483000" />
+      <workItem from="1547817707109" duration="2328000" />
+      <workItem from="1548067906261" duration="7530000" />
+      <workItem from="1548182032246" duration="934000" />
+      <workItem from="1548256776773" duration="1703000" />
+      <workItem from="1548408010767" duration="3880000" />
+      <workItem from="1548527715873" duration="2187000" />
+      <workItem from="1548672928627" duration="5820000" />
+      <workItem from="1548686362932" duration="7150000" />
+      <workItem from="1548758805516" duration="2599000" />
+      <workItem from="1550248401976" duration="401000" />
+      <workItem from="1550251060924" duration="7362000" />
+      <workItem from="1550431051146" duration="816000" />
+      <workItem from="1551454108389" duration="4657000" />
+      <workItem from="1551716346770" duration="600000" />
+      <workItem from="1551944400192" duration="2982000" />
+      <workItem from="1551954667968" duration="599000" />
+      <workItem from="1551980238017" duration="92000" />
+      <workItem from="1551980345986" duration="3000" />
+      <workItem from="1552152722837" duration="3000" />
+      <workItem from="1552152732479" duration="1805000" />
+      <workItem from="1552227279601" duration="14000" />
+      <workItem from="1553507674113" duration="1895000" />
+      <workItem from="1555257234338" duration="4640000" />
+      <workItem from="1555504001089" duration="110000" />
+      <workItem from="1556371429969" duration="1376000" />
+      <workItem from="1556463954231" duration="142000" />
+      <workItem from="1557124072057" duration="786000" />
+      <workItem from="1557127774886" duration="322000" />
+      <workItem from="1557130793162" duration="23000" />
+      <workItem from="1557132157094" duration="7488000" />
+      <workItem from="1557144420926" duration="3268000" />
+      <workItem from="1557235730523" duration="69000" />
+      <workItem from="1557578043353" duration="16357000" />
+      <workItem from="1557754462490" duration="6783000" />
+      <workItem from="1558287064366" duration="166000" />
+      <workItem from="1558290777611" duration="87000" />
+      <workItem from="1558375410405" duration="4371000" />
+      <workItem from="1558878503684" duration="2535000" />
+      <workItem from="1558881299390" duration="510000" />
+      <workItem from="1558946434684" duration="2318000" />
+      <workItem from="1558950720849" duration="5234000" />
+      <workItem from="1558980246117" duration="2718000" />
+      <workItem from="1559482222817" duration="16044000" />
+      <workItem from="1559549869646" duration="1151000" />
+      <workItem from="1559804713976" duration="616000" />
+      <workItem from="1564410027353" duration="320000" />
+      <workItem from="1564411935614" duration="7718000" />
+      <workItem from="1564662086865" duration="11525000" />
+      <workItem from="1564926107934" duration="7943000" />
+      <workItem from="1565010964457" duration="5388000" />
+      <workItem from="1572715988906" duration="3455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
